@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\implementations\\repositoryimplementations\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\implementations\\repositoryimplementations\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\implementations\\repositoryimplementations\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\implementations\\repositoryimplementations\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\dataaccess\\simplemoviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\dataaccess\\simplemoviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\entities\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\entities\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\middleware\\customexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\middleware\\customexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\implementations\\repositoryimplementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\implementations\\repositoryimplementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\controllers\\autheticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\controllers\\autheticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\implementations\\serviceimplementations\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\implementations\\serviceimplementations\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\services\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\services\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\entities\\moviedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\entities\\moviedirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\irepository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\irepository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|c:\\users\\david\\documents\\movieswebapi\\simplifiedimdbapi\\simplifiedimdbapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E085F1-F363-43A1-AC39-D19C30CF4E41}|SimplifiedIMDBApi\\SimplifiedIMDBApi.csproj|solutionrelative:simplifiedimdbapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Implementations\\RepositoryImplementations\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\Implementations\\RepositoryImplementations\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Implementations\\RepositoryImplementations\\MovieRepository.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\Implementations\\RepositoryImplementations\\MovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:28:58.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Entities\\Admin.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\Entities\\Admin.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA1wAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:27:41.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleMoviesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\DataAccess\\SimpleMoviesDbContext.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\DataAccess\\SimpleMoviesDbContext.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\DataAccess\\SimpleMoviesDbContext.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\DataAccess\\SimpleMoviesDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:27:01.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Entities\\AdminUser.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\Entities\\AdminUser.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Entities\\AdminUser.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\Entities\\AdminUser.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA1wAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:26:39.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Middleware\\CustomExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\Middleware\\CustomExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Middleware\\CustomExceptionMiddleware.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\Middleware\\CustomExceptionMiddleware.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:25:40.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Implementations\\RepositoryImplementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\Implementations\\RepositoryImplementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Implementations\\RepositoryImplementations\\UserRepository.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\Implementations\\RepositoryImplementations\\UserRepository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAuwDkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:23:43.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Implementations\\RepositoryImplementations\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\Implementations\\RepositoryImplementations\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Implementations\\RepositoryImplementations\\AdminRepository.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\Implementations\\RepositoryImplementations\\AdminRepository.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAswBUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:12:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutheticationController.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Controllers\\AutheticationController.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\Controllers\\AutheticationController.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Controllers\\AutheticationController.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\Controllers\\AutheticationController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwCwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:17:11.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Implementations\\ServiceImplementations\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\Implementations\\ServiceImplementations\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Implementations\\ServiceImplementations\\TokenGenerator.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\Implementations\\ServiceImplementations\\TokenGenerator.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:16:29.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Services\\ITokenGenerator.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\Services\\ITokenGenerator.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Services\\ITokenGenerator.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\Services\\ITokenGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:15:48.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieDirector.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Entities\\MovieDirector.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\Entities\\MovieDirector.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Entities\\MovieDirector.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\Entities\\MovieDirector.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:13:54.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\IRepository\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\IRepository\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\IRepository\\IAdminRepository.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\IRepository\\IAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:12:34.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SimplifiedIMDBApi\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\David\\Documents\\movieswebApi\\SimplifiedIMDBApi\\SimplifiedIMDBApi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SimplifiedIMDBApi\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAHcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:34:55.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

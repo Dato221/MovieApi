@@ -1,0 +1,6 @@
+@SimplifiedIMDBApi_HostAddress = http://localhost:5033
+
+GET {{SimplifiedIMDBApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
