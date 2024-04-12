@@ -40,13 +40,14 @@ namespace SimplifiedIMDBApi.Controllers
             try
             {
                 User user = new User();
+                // აქ იუზერს რატო ქმნი. ბაზიდან ხო უნდა წამოიღო
                 if (await userRepository.GetUserByUsernameAsync(login.Username) == null) return NotFound("user not found");
 
                 if( user.IsBanned) 
                 { 
                     return Json(new { message = "You are banned and not allowed to access this resource.", user.Banlength }); 
                 }
-
+                // ჯობია სტილი დაიცვა წერის 44 ხაზზე და წინა იფი რომ სხვადასხვანაირად გიწერია
 
                 if (!passwordHandler.VerifyPasswordHash(login.Password, user.PasswordHash, user.PasswordSalt))
                 {
