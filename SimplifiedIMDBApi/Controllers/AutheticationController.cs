@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Microsoft.Win32;
 using SimplifiedIMDBApi.Entities;
 using SimplifiedIMDBApi.Enums;
 using SimplifiedIMDBApi.Implementations.ServiceImplementations;
@@ -39,7 +40,7 @@ namespace SimplifiedIMDBApi.Controllers
         {
             try
             {
-                User user = new User();
+                User user = await userRepository.GetUserByUsernameAsync(login.Username);
                 if (await userRepository.GetUserByUsernameAsync(login.Username) == null) return NotFound("user not found");
 
                 if( user.IsBanned) 
